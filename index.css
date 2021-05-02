@@ -64,3 +64,11 @@ h6 strong{
 #logo {
     width:30%;
 }
+
+.navbar {
+    padding: 1rem 8 rem;
+}
+
+.intro {
+    text-align: center;
+}
