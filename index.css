@@ -1,11 +1,16 @@
 body {
-    font-family: nunito-sans,-apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen-Sans,Ubuntu,Cantarell,helvetica neue,sans-serif;background-color:#fff;
+    /* font-family: nunito-sans,-apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen-Sans,Ubuntu,Cantarell,helvetica neue,sans-serif;background-color:#fff; */
+    font-family: 'Poppins', sans-serif;
     color:#333;
     font-size:18px;
     line-height:1.25em;
     font-weight:300;
+    overflow-x: hidden;
 }
 
+b {
+    font-weight: bold;
+}
 h1,h2,h3,h4,h5,h6{
     font-weight:300;
     text-align:center;
@@ -108,11 +113,32 @@ p {
     width: 5%;
 }
 
-.linkedin {
-    margin-right: 5%;
-}
 
 .contactme {
     text-align: center;
     margin-top: 2%;
+}
+
+.contact {
+    width: 15%;
+    height: auto;
+}
+
+.linkedin-right{
+    text-align:right;
+}
+
+.linkedin-img {
+    margin-right: 5%;
+}
+
+.container {
+    width: 70%;
+}
+
+.github-left {
+    text-align:left;
+}
+.github-img{
+    margin-left:5%;
 }
