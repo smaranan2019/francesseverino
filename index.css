@@ -61,6 +61,10 @@ h6 strong{
     font-weight:400
 }
 
+p {
+    text-align: center;
+}
+
 #logo {
     width:30%;
 }
@@ -71,4 +75,22 @@ h6 strong{
 
 .intro {
     text-align: center;
+    width: auto;
+    height: 40%;
+}
+
+.github {
+    text-align: center;
+}
+
+.github a {
+    text-decoration: none;
+}
+
+.github a:hover {
+    color: lightgray
+}
+
+.tp_a {
+    text-decoration: none;
 }
