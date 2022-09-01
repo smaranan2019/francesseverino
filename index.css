@@ -80,9 +80,8 @@ p {
 }
 
 .intro {
-    text-align: center;
-    width: auto;
-    height: 40%;
+    width: 80%;
+    height: auto;
 }
 
 .github {
